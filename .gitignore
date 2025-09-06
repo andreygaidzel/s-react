@@ -1,0 +1,35 @@
+# --- Node.js ---
+node_modules/
+
+# --- Build output ---
+dist/
+build/
+.tmp/
+.out/
+.next/
+.nuxt/
+coverage/
+
+# --- React (CRA, Vite, Next.js) ---
+.cache/
+.vite/
+*.tsbuildinfo
+
+
+# --- OS files ---
+Thumbs.db
+
+# --- IDE / Editor ---
+# VSCode
+.vscode/
+
+# JetBrains / WebStorm / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- Logs ---
+*.log
+logs
