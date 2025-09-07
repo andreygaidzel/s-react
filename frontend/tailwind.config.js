@@ -16,7 +16,15 @@ export default {
       "retro",
       "coffee",
       "forest",
-      "cyberpunk"
+      "cyberpunk",
+      "synthwave",
+      "luxury",
+      "autumn",
+      "valentine",
+      "aqua",
+      "business",
+      "night",
+      "dracula"
     ]
   }
 }
